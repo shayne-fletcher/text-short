@@ -61,7 +61,7 @@ module Data.Text.Short.Internal
     , dropAround
 
     , foldl
-    , foldl'
+    , Data.Text.Short.Internal.foldl'
     , foldr
     , foldl1
     , foldl1'
